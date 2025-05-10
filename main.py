@@ -20,7 +20,7 @@ REPO_NAME = "zepthical/k"
 KEYS_RAW_URL = "https://raw.githubusercontent.com/zepthical/k/main/Keys.txt"
 KEYS_FILE = "Keys.txt"
 USED_KEYS_FILE = "used_keys.txt"
-LOG_CHANNEL_ID = 123456789012345678
+LOG_CHANNEL_ID = 1369717331730894991
 
 # Initialize GitHub client
 g = Github(GITHUB_TOKEN)
